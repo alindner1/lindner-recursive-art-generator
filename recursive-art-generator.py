@@ -1,5 +1,5 @@
 """
-Random, Recursive Art Generator
+eRecursive Art Generator
 @author: Andrea Lindner
 """
 
